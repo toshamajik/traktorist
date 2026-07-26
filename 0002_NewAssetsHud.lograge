@@ -345,8 +345,8 @@ body #app .hud-radmir-info {
     margin-bottom: 3vh;
 }
 .Old-Fixed-Logo img {
-  width: 18vh;
-  height: 5vh;
+  width: 21vh;
+  height: 6vh;
   margin-right: 3vh;
 }
 .Old-Fixed-Bonus{
@@ -398,8 +398,8 @@ body #app .hud-radmir-info {
 }
 .Old-Fixed-Weapon_ammo {
     position: absolute;
-    bottom: 5.8vh;
-    right: 5vh;
+    bottom: 4.8vh;
+    right: 4.8vh;
     display: flex;
     align-items: flex-end;
     color: #fff;
